@@ -14,6 +14,7 @@ public class Bee extends Actor
      */
     public void act()
     {
+        // This is Azlan!!! 
         move(5);
         if(isAtEdge()) {
             turn(45);
