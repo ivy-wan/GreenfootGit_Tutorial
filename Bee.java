@@ -14,8 +14,9 @@ public class Bee extends Actor
      */
     public void act()
     {
-        // Deleted everything!
-        // I will do this later hehe
-        // Ms. Wang made a change.
+        // Move and turn at the same time!
+        // Merged and fixed!
+        move(5);
+        turn(40);
     }
 }
